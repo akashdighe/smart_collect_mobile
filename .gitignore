@@ -1,0 +1,13 @@
+# React Native
+node_modules/
+android/.gradle/
+android/app/.cxx/
+android/app/build/
+android/build/
+ios/Pods/
+ios/build/
+*.log
+*.tmp
+*.swp
+*.env
+.expo/
